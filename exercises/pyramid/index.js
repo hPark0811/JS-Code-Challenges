@@ -14,6 +14,12 @@
 //       ' ### '
 //       '#####'
 
-function pyramid(n) {}
+function pyramid(n) {
+
+}
+
+function recursivePyramid(n) {
+  
+}
 
 module.exports = pyramid;
